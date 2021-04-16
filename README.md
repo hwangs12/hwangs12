@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hwangs12
+- 👋 Hi, I’m Jun
 - 👀 I’m interested in matrix
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on game of go
