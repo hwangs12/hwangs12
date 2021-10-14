@@ -1,4 +1,4 @@
-- 👋 Hi there, I'm Jun. You can call me Neo, still not sure if I'm the one. 
+- 👋 Hi there, I'm Jun. You can call me Neo, still not sure if I'm the one. The cat over there is the cat from Matrix (I'm just joking) 
 - 👀 I’m interested in building web applications and learning programming language in general. 
 - :muscle: I'm currently working on a [e-commerce site](https://github.com/hwangs12/e-commerce) built on react.
 - 🌱 Basically, I am trying to build everything on the web and understand all of its processes. 
